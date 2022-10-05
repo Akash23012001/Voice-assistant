@@ -75,7 +75,7 @@ engine.setProperty('voice', voices[1].id)
 
 # Method for the speaking of the the assistant
 
-                                                                                                                                                      engine.say(audio)
+engine.say(audio)
 
 # Blocks while processing all the currently
 
